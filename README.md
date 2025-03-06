@@ -1,4 +1,4 @@
-公開url:
+公開url: https://to-be-sun.github.io/FM6-2-Product-list-with-cart/
 
 # Frontend Mentor - Product list with cart
 
